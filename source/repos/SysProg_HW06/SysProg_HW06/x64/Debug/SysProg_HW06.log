@@ -1,0 +1,19 @@
+﻿  my_assembler_20211397.c
+C:\Users\kdm12\source\repos\SysProg_HW06\SysProg_HW06\my_assembler_20211397.c(367,36): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\kdm12\source\repos\SysProg_HW06\SysProg_HW06\my_assembler_20211397.c(367,36): warning C4024: 'insert_symtab': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\kdm12\source\repos\SysProg_HW06\SysProg_HW06\my_assembler_20211397.c(388,13): warning C4013: 'isdigit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\kdm12\source\repos\SysProg_HW06\SysProg_HW06\my_assembler_20211397.c(437,40): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kdm12\source\repos\SysProg_HW06\SysProg_HW06\my_assembler_20211397.c(440,46): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kdm12\source\repos\SysProg_HW06\SysProg_HW06\my_assembler_20211397.c(877,25): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kdm12\source\repos\SysProg_HW06\SysProg_HW06\my_assembler_20211397.c(883,25): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kdm12\source\repos\SysProg_HW06\SysProg_HW06\my_assembler_20211397.c(1009,25): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kdm12\source\repos\SysProg_HW06\SysProg_HW06\my_assembler_20211397.c(1014,25): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kdm12\source\repos\SysProg_HW06\SysProg_HW06\my_assembler_20211397.c(1236,30): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kdm12\source\repos\SysProg_HW06\SysProg_HW06\my_assembler_20211397.c(1053,15): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kdm12\source\repos\SysProg_HW06\SysProg_HW06\my_assembler_20211397.c(1376,47): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kdm12\source\repos\SysProg_HW06\SysProg_HW06\my_assembler_20211397.c(1379,53): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kdm12\source\repos\SysProg_HW06\SysProg_HW06\my_assembler_20211397.c(1470,48): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kdm12\source\repos\SysProg_HW06\SysProg_HW06\my_assembler_20211397.c(1472,24): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kdm12\source\repos\SysProg_HW06\SysProg_HW06\my_assembler_20211397.c(1493,42): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kdm12\source\repos\SysProg_HW06\SysProg_HW06\my_assembler_20211397.c(1495,48): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SysProg_HW06.vcxproj -> C:\Users\kdm12\source\repos\SysProg_HW06\x64\Debug\SysProg_HW06.exe
